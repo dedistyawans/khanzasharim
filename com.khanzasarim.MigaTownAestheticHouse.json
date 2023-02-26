@@ -31,7 +31,7 @@
     "ad_network": [
       {
         "name": "startapp",
-        "value": 0,
+        "value": 1,
         "load_time_out" : 20,
         "min_time": 60,
         "interval": 5,
