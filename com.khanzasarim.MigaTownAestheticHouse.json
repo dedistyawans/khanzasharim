@@ -33,7 +33,7 @@
         "name": "startapp",
         "value": 1,
         "load_time_out" : 20,
-        "min_time": 60,
+        "min_time": 0,
         "interval": 5,
 
         "appId_appKey_publisherId_gameId": "201136370",
