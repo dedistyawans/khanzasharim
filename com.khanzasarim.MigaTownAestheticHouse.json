@@ -55,6 +55,33 @@
         "native_ad_medium_on" : true,
         "open_ad_on": true,
         "must_live_at_play_store": true
+      },
+       {
+        "name": "admob_13",
+        "value": 10,
+        "load_time_out" : 20,
+        "min_time": 10,
+        "interval": 5,
+
+        "appId_appKey_publisherId_gameId": "201136370",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "banner_switch_priority": "native",
+
+        "init_wait": true,
+        "banner_on": true,
+        "detail_banner_on": true,
+        "mrec_on": true,
+        "splash_on": true,
+        "inter_on": true,
+        "native_ad_on": true,
+        "native_ad_detail_on" : true,
+        "native_ad_medium_on" : true,
+        "open_ad_on": true,
+        "must_live_at_play_store": true
       }
     ]
   },
