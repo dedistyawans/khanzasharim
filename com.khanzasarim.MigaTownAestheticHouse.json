@@ -17,8 +17,9 @@
       "native_medium_ad": "auto",
       "open_ad": "auto",
 
-      "interval_awal": 2,
+      "interval_awal": 5,
       "interval_las": 2,
+      "banner_native_with_loading_indicator": true,
 
       "shopee_aff" : "off"
     },
@@ -36,34 +37,7 @@
         "min_time": 0,
         "interval": 5,
 
-        "appId_appKey_publisherId_gameId": "201136370",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
-        "open_ad": "-",
-        "banner_switch_priority": "native",
-
-        "init_wait": true,
-        "banner_on": true,
-        "detail_banner_on": true,
-        "mrec_on": true,
-        "splash_on": true,
-        "inter_on": true,
-        "native_ad_on": true,
-        "native_ad_detail_on" : true,
-        "native_ad_medium_on" : true,
-        "open_ad_on": true,
-        "must_live_at_play_store": true
-      },
-       {
-        "name": "admob_13",
-        "value": 10,
-        "load_time_out" : 20,
-        "min_time": 10,
-        "interval": 5,
-
-        "appId_appKey_publisherId_gameId": "201136370",
+        "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
         "mrec": "-",
         "inter": "-",
@@ -84,19 +58,5 @@
         "must_live_at_play_store": true
       }
     ]
-  },
-
-  "app_settings": {
-    "template_mode" : 1,
-    "open_image_mode_square": true,
-
-    "offline" : true,
-
-    "online" : false,
-    "online_url_json" : "https://app.labigsharim.me/dev_andri_eko/com.andriekodev.walljson/json.php?content=online",
-
-    "more" : false,
-    "more_category" : false,
-    "more_url_api": "https://app.labigsharim.me/dev_andri_eko/more.php"
   }
 }
