@@ -62,7 +62,7 @@
 
   "app_settings": {
     "template_mode" : 1,
-    "open_image_mode_square": true,
+    "open_image_mode_square": false,
 
     "offline" : true,
 
