@@ -14,7 +14,6 @@
       "inter_ad": "auto",
       "native_ad": "auto",
       "native_detail_ad": "auto",
-      "native_medium_ad": "auto",
       "open_ad": "auto",
 
       "interval_awal": 3,
@@ -53,7 +52,6 @@
         "inter_on": true,
         "native_ad_on": true,
         "native_ad_detail_on" : true,
-        "native_ad_medium_on" : true,
         "open_ad_on": true,
         "must_live_at_play_store": true
       }
