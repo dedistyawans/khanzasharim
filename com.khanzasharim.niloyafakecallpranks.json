@@ -1,0 +1,74 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
+      "interval_interstitial": 2,
+      "show_credit_info": true,
+      "interstitial_type": "las"
+    },
+
+    "ad_network": [
+      {
+        "name": "startapp",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "201136370",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings": {
+    "template_mode" : 1
+  },
+
+  "Item": [
+    {
+      "id":0,
+      "name":"Call With Niloya",
+      "image_url":"file:///android_asset/video1.jpg",
+      "video_url":"video1",
+      "voice_url":"video1.MP3"
+    },
+    {
+      "id":1,
+      "name":"Call With Niloya 2",
+      "image_url":"file:///android_asset/video2.jpg",
+      "video_url":"video2",
+      "voice_url":"video2.MP3"
+    },
+    {
+      "id":2,
+      "name":"Call With Niloya 3",
+      "image_url":"file:///android_asset/video3.jpg",
+      "video_url":"video3",
+      "voice_url":"video3.MP3"
+    },
+    {
+      "id":3,
+      "name":"Call With Niloya 4",
+      "image_url":"file:///android_asset/video4.jpg",
+      "video_url":"video4",
+      "voice_url":"video4.MP3"
+    },
+    {
+      "id":4,
+      "name":"Call With Niloya 5",
+      "image_url":"file:///android_asset/video5.jpg",
+      "video_url":"video5",
+      "voice_url":"video5.MP3"
+    },
+    {
+      "id":5,
+      "name":"Call With Niloya 6",
+      "image_url":"file:///android_asset/video6.jpg",
+      "video_url":"video6",
+      "voice_url":"video6.MP3"
+    }
+  ]
+}
