@@ -2,15 +2,15 @@
   "ads": {
     "settings": {
       "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
-      "interval_interstitial": 2,
-      "show_credit_info": true,
+      "interval_interstitial": "2",
+      "show_credit_info": "true",
       "interstitial_type": "las"
     },
 
     "ad_network": [
       {
         "name": "startapp",
-        "value": 1,
+        "value": "1",
 
         "appId_appKey_publisherId_gameId": "201136370",
         "banner": "-",
@@ -18,13 +18,13 @@
         "inter": "-",
         "native_ad": "-",
         "open_ad": "-",
-        "splash_ad": true
+        "splash_ad": "true"
       }
     ]
   },
 
   "app_settings": {
-    "template_mode" : 1
+    "template_mode" : "1"
   },
 
   "Item": [
