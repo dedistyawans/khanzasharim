@@ -61,13 +61,6 @@
       "image_url":"file:///android_asset/video5.jpg",
       "video_url":"video5",
       "voice_url":"video5.MP3"
-    },
-    {
-      "id":5,
-      "name":"Megan Fake Call 6",
-      "image_url":"file:///android_asset/video6.jpg",
-      "video_url":"video6",
-      "voice_url":"video6.MP3"
     }
   ]
 }
