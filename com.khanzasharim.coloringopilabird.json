@@ -2,21 +2,14 @@
   "ads": {
     "settings": {
       "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
-
-      "rate_dialog_count": 2,
       "interval_interstitial": 3,
-
-      "interstitial_type": "lap_no_timer",
-      "switch_ads_type": "native_banner_linear",
       "show_credit_info" : true
     },
 
     "ad_network": [
       {
         "name": "startapp",
-        "value": 1,
-        "load_time_out" : 15,
-        "min_time": 0,
+        "value": 0,
 
         "appId_appKey_publisherId_gameId": "201136370",
         "banner": "-",
@@ -24,9 +17,7 @@
         "inter": "-",
         "native_ad": "-",
         "open_ad": "-",
-
-        "splash_ad": true,
-        "must_live_at_play_store": true
+        "splash_ad": true
       }
     ]
   }
