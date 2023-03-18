@@ -9,7 +9,7 @@
     "ad_network": [
         {
         "name": "admob",
-        "value": 0,
+        "value": 2,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-8927059625257914~9743562807",
         "banner": "ca-app-pub-8927059625257914/9440310472",
@@ -21,7 +21,7 @@
       },
       {
         "name": "startapp",
-        "value": 0,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "201136370",
         "banner": "-",
