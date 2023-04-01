@@ -3,13 +3,14 @@
     "settings": {
       "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
       "interval_interstitial": 3,
-      "show_credit_info": true
+      "show_credit_info": true,
+      "switch_ads_type": "banner_native_linear"
     },
 
     "ad_network": [
         {
         "name": "admob",
-        "value": 2,
+        "value": 3,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-8927059625257914~9743562807",
         "banner": "ca-app-pub-8927059625257914/9440310472",
@@ -17,6 +18,18 @@
         "inter": "ca-app-pub-8927059625257914/4742780894",
         "native_ad": "ca-app-pub-8927059625257914/5864290874",
         "open_ad": "ca-app-pub-8927059625257914/3541950687",
+        "splash_ad": true
+      },
+      {
+        "name": "admob2",
+        "value": 2,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~4616923279",
+        "banner": "ca-app-pub-1598318147841886/5163756175",
+        "mrec": "ca-app-pub-1598318147841886/5163756175",
+        "inter": "ca-app-pub-1598318147841886/8978592694",
+        "native_ad": "ca-app-pub-1598318147841886/9585097354",
+        "open_ad": "ca-app-pub-1598318147841886/9235659284",
         "splash_ad": true
       },
       {
