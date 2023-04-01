@@ -2,13 +2,14 @@
   "ads": {
     "settings": {
       "app_id_onesignal": "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
-      "interval_interstitial": 3
+      "interval_interstitial": 3,
+      "switch_ads_type": "banner_native_linear"
     },
 
     "ad_network": [
       {
-        "name": "admob",
-        "value": 2,
+        "name": "admob_agus",
+        "value": 3,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-8927059625257914~8269906449",
         "banner": "ca-app-pub-8927059625257914/9955357350",
@@ -16,6 +17,18 @@
         "inter": "ca-app-pub-8927059625257914/4486326681",
         "native_ad": "ca-app-pub-8927059625257914/5413477116",
         "open_ad": "ca-app-pub-8927059625257914/7281641295",
+        "splash_ad": true
+      },
+      {
+        "name": "admob_windu",
+        "value": 2,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~4164415565",
+        "banner": "ca-app-pub-1598318147841886/5063398418",
+        "mrec": "ca-app-pub-1598318147841886/5063398418",
+        "inter": "ca-app-pub-1598318147841886/1116414545",
+        "native_ad": "ca-app-pub-1598318147841886/9602528789",
+        "open_ad": "ca-app-pub-1598318147841886/9653380113",
         "splash_ad": true
       },
       {
