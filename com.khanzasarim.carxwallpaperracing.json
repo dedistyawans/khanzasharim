@@ -7,9 +7,21 @@
     },
 
     "ad_network": [
+       {
+        "name": "admob_windu",
+        "value": 2,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~5553081484",
+        "banner": "ca-app-pub-1598318147841886/3038846207",
+        "mrec": "ca-app-pub-1598318147841886/3038846207",
+        "inter": "ca-app-pub-1598318147841886/1291522400",
+        "native_ad": "ca-app-pub-1598318147841886/9600385126",
+        "open_ad": "ca-app-pub-1598318147841886/4348058446",
+        "splash_ad": true
+      },
       {
         "name": "startapp",
-        "value": 0,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "201136370",
         "banner": "-",
