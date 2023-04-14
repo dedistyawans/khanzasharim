@@ -8,6 +8,18 @@
 
     "ad_network": [
       {
+        "name": "admob_windu",
+        "value": 2,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~4212079659",
+        "banner": "ca-app-pub-1598318147841886/6399506717",
+        "mrec": "ca-app-pub-1598318147841886/6399506717",
+        "inter": "ca-app-pub-1598318147841886/8973699162",
+        "native_ad": "ca-app-pub-1598318147841886/8156313658",
+        "open_ad": "ca-app-pub-1598318147841886/5034454153",
+        "splash_ad": true
+      },
+      {
         "name": "startapp",
         "value": 1,
 
