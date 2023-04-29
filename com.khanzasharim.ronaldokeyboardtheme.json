@@ -2,7 +2,8 @@
   "ads": {
     "settings": {
       "app_id_onesignal": "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
-      "interval_interstitial": 3
+      "interval_interstitial": 3,
+      "app_live_store" : "false"
     },
 
     "ad_network": [
