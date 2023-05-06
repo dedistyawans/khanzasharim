@@ -10,7 +10,7 @@
     "ad_network": [
       {
         "name": "admob_windu",
-        "value": 2,
+        "value": 3,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~4345460538",
         "banner": "ca-app-pub-1598318147841886/4332770678",
@@ -18,6 +18,18 @@
         "inter": "ca-app-pub-1598318147841886/2010979224",
         "native_ad": "ca-app-pub-1598318147841886/7071734211",
         "open_ad": "ca-app-pub-1598318147841886/2746272559",
+        "splash_ad": true
+      },
+      {
+        "name": "fan",
+        "value": 2,
+
+        "appId_appKey_publisherId_gameId": "199443499565569",
+        "banner": "199443499565569_199445129565406",
+        "mrec": "199443499565569_199445349565384",
+        "inter": "199443499565569_199445946231991",
+        "native_ad": "199443499565569_199446172898635",
+        "open_ad": "-",
         "splash_ad": true
       },
       {
