@@ -21,8 +21,8 @@
         "splash_ad": true
       },
       {
-        "name": "admob2",
-        "value": 2,
+        "name": "admob_windu",
+        "value": 4,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~4616923279",
         "banner": "ca-app-pub-1598318147841886/5163756175",
