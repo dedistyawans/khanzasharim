@@ -19,9 +19,21 @@
         "open_ad": "ca-app-pub-8927059625257914/7281641295",
         "splash_ad": true
       },
+       {
+        "name": "fan_dedi",
+        "value": 4,
+
+        "appId_appKey_publisherId_gameId": "273019688410246",
+        "banner": "273019688410246_273020748410140",
+        "mrec": "273019688410246_273020848410130",
+        "inter": "273019688410246_273020975076784",
+        "native_ad": "273019688410246_273021105076771",
+        "open_ad": "-",
+        "splash_ad": true
+      },
       {
         "name": "admob_windu",
-        "value": 4,
+        "value": 5,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~4164415565",
         "banner": "ca-app-pub-1598318147841886/5063398418",
