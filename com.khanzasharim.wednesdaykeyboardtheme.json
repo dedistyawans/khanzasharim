@@ -9,7 +9,7 @@
     "ad_network": [
        {
         "name": "admob_windu",
-        "value": 2,
+        "value": 3,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~6599007215",
         "banner": "ca-app-pub-1598318147841886/4837287269",
@@ -17,6 +17,18 @@
         "inter": "ca-app-pub-1598318147841886/1776009659",
         "native_ad": "ca-app-pub-1598318147841886/9462927981",
         "open_ad": "ca-app-pub-1598318147841886/8695521665",
+        "splash_ad": true
+      },
+       {
+        "name": "fan_dedi",
+        "value": 2,
+
+        "appId_appKey_publisherId_gameId": "801186901136108",
+        "banner": "801186901136108_801187567802708",
+        "mrec": "801186901136108_801187644469367",
+        "inter": "801186901136108_801187707802694",
+        "native_ad": "801186901136108_801187787802686",
+        "open_ad": "-",
         "splash_ad": true
       },
       {
