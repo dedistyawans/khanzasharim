@@ -21,7 +21,7 @@
         "splash_ad": true
       },
       {
-        "name": "fan",
+        "name": "x_fan",
         "value": 2,
 
         "appId_appKey_publisherId_gameId": "199443499565569",
