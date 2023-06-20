@@ -10,7 +10,7 @@
     "ad_network": [
        {
         "name": "admob_agus",
-        "value": 5,
+        "value": 4,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-8927059625257914~1011419448",
         "banner": "ca-app-pub-8927059625257914/1541902480",
@@ -33,8 +33,23 @@
         "splash_ad": true
       },
        {
-        "name": "fan",
-        "value": 3,
+        "name": "max_dedi",
+        "value": 5,
+         "min_time":120,
+         "open_ad_mode" : "interstitial",
+         "splash_ad_mode": "interstitial",
+
+        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
+        "banner": "c76a6cb3cb3fbea9",
+        "mrec": "-",
+        "inter": "80859593070c99fe",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      },
+       {
+        "name": "x_fan",
+        "value": 0,
 
         "appId_appKey_publisherId_gameId": "220713217358195",
         "banner": "220713217358195_220716627357854",
