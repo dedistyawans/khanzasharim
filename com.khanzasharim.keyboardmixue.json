@@ -20,8 +20,8 @@
         "splash_ad": true
       },
        {
-        "name": "fan_dedi",
-        "value": 4,
+        "name": "x_fan_dedi",
+        "value": 0,
 
         "appId_appKey_publisherId_gameId": "273019688410246",
         "banner": "273019688410246_273020748410140",
@@ -41,6 +41,21 @@
         "inter": "ca-app-pub-1598318147841886/1116414545",
         "native_ad": "ca-app-pub-1598318147841886/9602528789",
         "open_ad": "ca-app-pub-1598318147841886/9653380113",
+        "splash_ad": true
+      },
+       {
+        "name": "max_dedi",
+        "value": 4,
+         "min_time":120,
+         "open_ad_mode" : "interstitial",
+         "splash_ad_mode": "interstitial",
+
+        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
+        "banner": "1b875be0ea39a2b0",
+        "mrec": "-",
+        "inter": "e599711ab7e184bf",
+        "native_ad": "-",
+        "open_ad": "-",
         "splash_ad": true
       },
       {
