@@ -33,7 +33,7 @@
         "splash_ad": true
       },
        {
-        "name": "xmax_dedi",
+        "name": "max_dedi",
         "value": 5,
          "min_time":120,
          "open_ad_mode" : "interstitial",
@@ -60,7 +60,7 @@
         "splash_ad": true
       },
       {
-        "name": "xstartapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "201136370",
