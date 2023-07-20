@@ -7,7 +7,7 @@
 
     "ad_network": [
        {
-        "name": "admob_windu",
+        "name": "xadmob_windu",
         "value": 3,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~8011723862",
@@ -19,7 +19,7 @@
         "splash_ad": true
       },
        {
-        "name": "fan_dedi",
+        "name": "xfan_dedi",
         "value": 2,
 
         "appId_appKey_publisherId_gameId": "6545685582133037",
@@ -31,7 +31,7 @@
         "splash_ad": true
       },
       {
-        "name": "startapp",
+        "name": "xstartapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "201136370",
