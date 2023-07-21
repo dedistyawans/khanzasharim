@@ -31,7 +31,7 @@
         "splash_ad": true
       },
       {
-        "name": "xstartapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "201136370",
