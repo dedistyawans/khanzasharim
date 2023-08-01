@@ -8,7 +8,7 @@
 
     "ad_network": [
       {
-        "name": "admob_agus",
+        "name": "xadmob_agus",
         "value": 3,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-8927059625257914~8269906449",
@@ -32,7 +32,7 @@
         "splash_ad": true
       },
       {
-        "name": "admob_windu",
+        "name": "xadmob_windu",
         "value": 5,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~4164415565",
@@ -44,7 +44,7 @@
         "splash_ad": true
       },
        {
-        "name": "max_dedi",
+        "name": "xmax_dedi",
         "value": 4,
          "min_time":120,
          "open_ad_mode" : "interstitial",
@@ -59,7 +59,7 @@
         "splash_ad": true
       },
       {
-        "name": "startapp",
+        "name": "xstartapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "201136370",
