@@ -8,7 +8,7 @@
 
     "ad_network": [
        {
-        "name": "xadmob_windu",
+        "name": "admob_windu",
         "value": 2,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~5553081484",
@@ -20,7 +20,7 @@
         "splash_ad": true
       },
       {
-        "name": "xstartapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "201136370",
